@@ -25,4 +25,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Jamsy99&show_icons=true&theme=transparent&locale=en&layout=compact" alt="Jamsy99" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Jamsy99&show_icons=true&theme=transparent&locale=en" alt="Jamsy99" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Jamsy99&show_icons=true&theme=radical&locale=en" alt="Jamsy99" /></p>
