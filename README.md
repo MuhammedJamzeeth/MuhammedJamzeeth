@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Muhammed Jamzeeth</h1>
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=Jamsy99&label=Profile%20views&color=0e75b6&style=flat" alt="Jamsy99" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=MuhammedJamzeeth&label=Profile%20views&color=0e75b6&style=flat" alt="Jamsy99" /> </p>
 
 - 🔭 I’m currently working as **a freelancer**
 
@@ -27,6 +27,6 @@
   <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/>
 </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Jamsy99&show_icons=true&theme=transparent&locale=en&layout=compact" alt="Jamsy99" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MuhammedJamzeeth&show_icons=true&theme=transparent&locale=en&layout=compact" alt="Jamsy99" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Jamsy99&show_icons=true&theme=radical&locale=en" alt="Jamsy99" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MuhammedJamzeeth&show_icons=true&theme=radical&locale=en" alt="Jamsy99" /></p>
