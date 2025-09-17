@@ -1,32 +1,20 @@
-[![MasterHead](https://d33wubrfki0l68.cloudfront.net/590398ae9a27fec27fdac9450c0738d409cc84ff/c6bb7/static/2b5773beca118974180168ada813ba7b/an-introduction-to-low-level-programming.jpg)](https://creditshub.tech)
+<h2 align="left">Hi 👋, I'm Jamsy</h2>
 
-<h1 align="center">Hi 👋, I'm Muhammed Jamzeeth</h1>
+Just a guy who loves turning coffee ☕ into clean code and big ideas into real-world projects.  
+When I’m not debugging, I’m probably building something new, learning cool tech, or making side-projects come alive.
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=MuhammedJamzeeth&label=Profile%20views&color=0e75b6&style=flat" alt="Jamsy99" /> </p>
+Explore some of my recent work:
 
-- 🔭 I’m currently working as **a freelancer**
+- [Apex Media Hub](https://www.apexmediahub.io/)
+- [Gserve Tech](https://www.gservetech.com/)
+- [Folio Platform](https://www.folioplatform.com/)
+- [CNKAV](https://www.cnkav.com/)
+- [Lead Magnet (Under Development)](https://lead-magnet-1b784.web.app/)
+- [The Arabic Institute (Under Development)](https://thearabicinstitute.uk/games)  
 
-- 🌱 I’m currently learning **React, Spring Boot. Laravel and Flutter**
+## Fun Facts
 
-- 👯 I’m looking to collaborate on **web application projects and mobile application projects**
-
-- 📫 How to reach me **mrjamzee002@gmail.com**
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="deshapriya69" height="30" width="40" /></a>
-<a href="www.linkedin.com/in/muhammed-jamzeeth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deshapriya69" height="30" width="40" /></a>
-</p>
-
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a><a href="https://tailwindcss.com" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
-</a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a><a href="https://flutter.dev" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/>
-</a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MuhammedJamzeeth&show_icons=true&theme=transparent&locale=en&layout=compact" alt="Jamsy99" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MuhammedJamzeeth&show_icons=true&theme=radical&locale=en" alt="Jamsy99" /></p>
+- I love gaming
+- I can write code in my sleep (but I don’t recommend it).
+- I once fixed a bug by accident… and still don’t know how it worked.
+- I love solving problems that I created myself in the first place.
